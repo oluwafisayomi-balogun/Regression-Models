@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/a659f02ba20f4a82a2495e069794d540/artifacts
+end_time: 1735631168575
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: a659f02ba20f4a82a2495e069794d540
+run_name: clumsy-bee-0
+run_uuid: a659f02ba20f4a82a2495e069794d540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735631166489
+status: 3
+tags: []
+user_id: user

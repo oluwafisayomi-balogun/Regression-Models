@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/179b8120232b454eaa4f82594b64852e/artifacts
+end_time: 1735640347255
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 179b8120232b454eaa4f82594b64852e
+run_name: enchanting-stoat-191
+run_uuid: 179b8120232b454eaa4f82594b64852e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735640265777
+status: 3
+tags: []
+user_id: user

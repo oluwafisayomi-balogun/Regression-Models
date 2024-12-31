@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/06588f2b4f4f4087ab4446c9e4ce3808/artifacts
+end_time: 1735592752405
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 06588f2b4f4f4087ab4446c9e4ce3808
+run_name: charming-smelt-892
+run_uuid: 06588f2b4f4f4087ab4446c9e4ce3808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735592750400
+status: 3
+tags: []
+user_id: user
