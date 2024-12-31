@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/30b3e7fe66e54eeda5f6b2a6473ad755/artifacts
+end_time: 1735588195239
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 30b3e7fe66e54eeda5f6b2a6473ad755
+run_name: brawny-boar-829
+run_uuid: 30b3e7fe66e54eeda5f6b2a6473ad755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735588195231
+status: 4
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/b190d7d96aac4647ab1d6259d91104df/artifacts
+end_time: 1735567261400
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: b190d7d96aac4647ab1d6259d91104df
+run_name: efficient-tern-621
+run_uuid: b190d7d96aac4647ab1d6259d91104df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735567258028
+status: 3
+tags: []
+user_id: user

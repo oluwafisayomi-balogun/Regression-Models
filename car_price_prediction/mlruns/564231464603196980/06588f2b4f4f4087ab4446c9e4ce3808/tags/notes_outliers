@@ -1,0 +1,1 @@
+Transformed skewed columns to deal with outliers. Scaled all skewed columns except 'price'. Reversed the transformations so the target variable is understandable. Changed how I appended BrandName to categorical features as it wasn't appending properly initially
