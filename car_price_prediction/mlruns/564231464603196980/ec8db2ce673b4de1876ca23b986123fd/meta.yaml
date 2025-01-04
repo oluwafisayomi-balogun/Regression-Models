@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/ec8db2ce673b4de1876ca23b986123fd/artifacts
+end_time: 1735670706410
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: ec8db2ce673b4de1876ca23b986123fd
+run_name: delightful-flea-258
+run_uuid: ec8db2ce673b4de1876ca23b986123fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735670706338
+status: 3
+tags: []
+user_id: user

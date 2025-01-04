@@ -1,0 +1,64 @@
+artifact_path: car_prediction_random_forest_model_200
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.19.0
+model_size_bytes: 2655549
+model_uuid: d35b0e2d93344658999027802db1c1d7
+run_id: 715572d420e84a199537816197f11fc0
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "wheelbase", "required": true}, {"type": "double",
+    "name": "boreratio", "required": true}, {"type": "double", "name": "horsepower",
+    "required": true}, {"type": "double", "name": "car_dimension", "required": true},
+    {"type": "double", "name": "fuel_efficiency", "required": true}, {"type": "long",
+    "name": "fuelsystem_2bbl", "required": true}, {"type": "long", "name": "fuelsystem_4bbl",
+    "required": true}, {"type": "long", "name": "fuelsystem_idi", "required": true},
+    {"type": "long", "name": "fuelsystem_mfi", "required": true}, {"type": "long",
+    "name": "fuelsystem_mpfi", "required": true}, {"type": "long", "name": "fuelsystem_spdi",
+    "required": true}, {"type": "long", "name": "fuelsystem_spfi", "required": true},
+    {"type": "long", "name": "fueltype_gas", "required": true}, {"type": "long", "name":
+    "aspiration_turbo", "required": true}, {"type": "long", "name": "carbody_hardtop",
+    "required": true}, {"type": "long", "name": "carbody_hatchback", "required": true},
+    {"type": "long", "name": "carbody_sedan", "required": true}, {"type": "long",
+    "name": "carbody_wagon", "required": true}, {"type": "long", "name": "drivewheel_fwd",
+    "required": true}, {"type": "long", "name": "drivewheel_rwd", "required": true},
+    {"type": "long", "name": "enginelocation_rear", "required": true}, {"type": "long",
+    "name": "enginetype_dohcv", "required": true}, {"type": "long", "name": "enginetype_l",
+    "required": true}, {"type": "long", "name": "enginetype_ohc", "required": true},
+    {"type": "long", "name": "enginetype_ohcf", "required": true}, {"type": "long",
+    "name": "enginetype_ohcv", "required": true}, {"type": "long", "name": "enginetype_rotor",
+    "required": true}, {"type": "long", "name": "BrandName_audi", "required": true},
+    {"type": "long", "name": "BrandName_bmw", "required": true}, {"type": "long",
+    "name": "BrandName_buick", "required": true}, {"type": "long", "name": "BrandName_chevrolet",
+    "required": true}, {"type": "long", "name": "BrandName_dodge", "required": true},
+    {"type": "long", "name": "BrandName_honda", "required": true}, {"type": "long",
+    "name": "BrandName_isuzu", "required": true}, {"type": "long", "name": "BrandName_jaguar",
+    "required": true}, {"type": "long", "name": "BrandName_mazda", "required": true},
+    {"type": "long", "name": "BrandName_mercury", "required": true}, {"type": "long",
+    "name": "BrandName_mitsubishi", "required": true}, {"type": "long", "name": "BrandName_nissan",
+    "required": true}, {"type": "long", "name": "BrandName_peugeot", "required": true},
+    {"type": "long", "name": "BrandName_plymouth", "required": true}, {"type": "long",
+    "name": "BrandName_porsche", "required": true}, {"type": "long", "name": "BrandName_renault",
+    "required": true}, {"type": "long", "name": "BrandName_saab", "required": true},
+    {"type": "long", "name": "BrandName_subaru", "required": true}, {"type": "long",
+    "name": "BrandName_toyota", "required": true}, {"type": "long", "name": "BrandName_volkswagen",
+    "required": true}, {"type": "long", "name": "BrandName_volvo", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-12-31 18:46:21.264917'

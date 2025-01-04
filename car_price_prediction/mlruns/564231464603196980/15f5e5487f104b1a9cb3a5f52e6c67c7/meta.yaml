@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/15f5e5487f104b1a9cb3a5f52e6c67c7/artifacts
+end_time: 1735670781103
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 15f5e5487f104b1a9cb3a5f52e6c67c7
+run_name: able-smelt-468
+run_uuid: 15f5e5487f104b1a9cb3a5f52e6c67c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735670779168
+status: 3
+tags: []
+user_id: user

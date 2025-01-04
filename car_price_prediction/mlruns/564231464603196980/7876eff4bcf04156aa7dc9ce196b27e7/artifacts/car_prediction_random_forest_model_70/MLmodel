@@ -1,0 +1,54 @@
+artifact_path: car_prediction_random_forest_model_70
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.19.0
+model_size_bytes: 1021576
+model_uuid: af6ac32657334add90511f0105ce3aae
+run_id: 7876eff4bcf04156aa7dc9ce196b27e7
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "curbweight", "required": true}, {"type": "double",
+    "name": "enginesize", "required": true}, {"type": "double", "name": "wheelbase",
+    "required": true}, {"type": "double", "name": "boreratio", "required": true},
+    {"type": "double", "name": "horsepower", "required": true}, {"type": "double",
+    "name": "car_dimension", "required": true}, {"type": "double", "name": "fuel_efficiency",
+    "required": true}, {"type": "long", "name": "fuelsystem_2bbl", "required": true},
+    {"type": "long", "name": "fuelsystem_4bbl", "required": true}, {"type": "long",
+    "name": "fuelsystem_idi", "required": true}, {"type": "long", "name": "fuelsystem_mfi",
+    "required": true}, {"type": "long", "name": "fuelsystem_mpfi", "required": true},
+    {"type": "long", "name": "fuelsystem_spdi", "required": true}, {"type": "long",
+    "name": "fuelsystem_spfi", "required": true}, {"type": "long", "name": "fueltype_gas",
+    "required": true}, {"type": "long", "name": "aspiration_turbo", "required": true},
+    {"type": "long", "name": "carbody_hardtop", "required": true}, {"type": "long",
+    "name": "carbody_hatchback", "required": true}, {"type": "long", "name": "carbody_sedan",
+    "required": true}, {"type": "long", "name": "carbody_wagon", "required": true},
+    {"type": "long", "name": "drivewheel_fwd", "required": true}, {"type": "long",
+    "name": "drivewheel_rwd", "required": true}, {"type": "long", "name": "enginelocation_rear",
+    "required": true}, {"type": "long", "name": "enginetype_dohcv", "required": true},
+    {"type": "long", "name": "enginetype_l", "required": true}, {"type": "long", "name":
+    "enginetype_ohc", "required": true}, {"type": "long", "name": "enginetype_ohcf",
+    "required": true}, {"type": "long", "name": "enginetype_ohcv", "required": true},
+    {"type": "long", "name": "enginetype_rotor", "required": true}, {"type": "long",
+    "name": "symboling_-1", "required": true}, {"type": "long", "name": "symboling_0",
+    "required": true}, {"type": "long", "name": "symboling_1", "required": true},
+    {"type": "long", "name": "symboling_2", "required": true}, {"type": "long", "name":
+    "symboling_3", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-12-31 19:04:34.948115'

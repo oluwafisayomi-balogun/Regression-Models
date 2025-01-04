@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/612dd0e47d434d208443047a8c668d58/artifacts
+end_time: 1735670349683
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 612dd0e47d434d208443047a8c668d58
+run_name: languid-yak-482
+run_uuid: 612dd0e47d434d208443047a8c668d58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735670338618
+status: 3
+tags: []
+user_id: user

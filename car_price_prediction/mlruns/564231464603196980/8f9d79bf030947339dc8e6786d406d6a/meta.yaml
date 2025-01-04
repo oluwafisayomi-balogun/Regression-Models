@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/8f9d79bf030947339dc8e6786d406d6a/artifacts
+end_time: 1736004630940
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 8f9d79bf030947339dc8e6786d406d6a
+run_name: able-penguin-465
+run_uuid: 8f9d79bf030947339dc8e6786d406d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736004626313
+status: 3
+tags: []
+user_id: user

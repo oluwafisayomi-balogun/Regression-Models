@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/89ac2454548d4c8d9fe69855e3a10086/artifacts
+end_time: 1735670346057
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 89ac2454548d4c8d9fe69855e3a10086
+run_name: adorable-deer-670
+run_uuid: 89ac2454548d4c8d9fe69855e3a10086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735670344303
+status: 3
+tags: []
+user_id: user

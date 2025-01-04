@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/c45b1dcef07b49019070a805744c3a8b/artifacts
+end_time: 1735670738577
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: c45b1dcef07b49019070a805744c3a8b
+run_name: thoughtful-newt-746
+run_uuid: c45b1dcef07b49019070a805744c3a8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735670736667
+status: 3
+tags: []
+user_id: user

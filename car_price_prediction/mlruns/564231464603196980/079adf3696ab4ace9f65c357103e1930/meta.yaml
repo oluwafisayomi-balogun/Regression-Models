@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/079adf3696ab4ace9f65c357103e1930/artifacts
+end_time: 1735670696888
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 079adf3696ab4ace9f65c357103e1930
+run_name: crawling-panda-130
+run_uuid: 079adf3696ab4ace9f65c357103e1930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735670694804
+status: 3
+tags: []
+user_id: user

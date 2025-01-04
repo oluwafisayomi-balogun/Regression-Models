@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/05686b6a7f6e48edb3eb185559235c29/artifacts
+end_time: 1735670340877
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 05686b6a7f6e48edb3eb185559235c29
+run_name: ambitious-finch-915
+run_uuid: 05686b6a7f6e48edb3eb185559235c29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735670338636
+status: 3
+tags: []
+user_id: user

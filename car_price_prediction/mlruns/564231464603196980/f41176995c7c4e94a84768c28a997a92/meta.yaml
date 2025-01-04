@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/f41176995c7c4e94a84768c28a997a92/artifacts
+end_time: 1735670872676
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: f41176995c7c4e94a84768c28a997a92
+run_name: classy-crow-540
+run_uuid: f41176995c7c4e94a84768c28a997a92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735670861520
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/4493bb1b604d445b8df25ea084897421/artifacts
+end_time: 1735670783028
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 4493bb1b604d445b8df25ea084897421
+run_name: skittish-cow-421
+run_uuid: 4493bb1b604d445b8df25ea084897421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735670771777
+status: 3
+tags: []
+user_id: user
