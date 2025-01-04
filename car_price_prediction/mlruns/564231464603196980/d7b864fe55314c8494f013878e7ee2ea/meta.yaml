@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/d7b864fe55314c8494f013878e7ee2ea/artifacts
+end_time: 1736003659203
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: d7b864fe55314c8494f013878e7ee2ea
+run_name: lyrical-doe-705
+run_uuid: d7b864fe55314c8494f013878e7ee2ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736003659185
+status: 4
+tags: []
+user_id: user

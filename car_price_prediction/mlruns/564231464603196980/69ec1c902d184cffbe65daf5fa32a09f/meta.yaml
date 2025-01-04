@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/69ec1c902d184cffbe65daf5fa32a09f/artifacts
+end_time: 1735671847370
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 69ec1c902d184cffbe65daf5fa32a09f
+run_name: zealous-eel-455
+run_uuid: 69ec1c902d184cffbe65daf5fa32a09f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735671847353
+status: 4
+tags: []
+user_id: user

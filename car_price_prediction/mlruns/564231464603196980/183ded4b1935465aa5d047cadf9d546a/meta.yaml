@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/183ded4b1935465aa5d047cadf9d546a/artifacts
+end_time: 1735670706247
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 183ded4b1935465aa5d047cadf9d546a
+run_name: legendary-hog-670
+run_uuid: 183ded4b1935465aa5d047cadf9d546a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735670704044
+status: 3
+tags: []
+user_id: user

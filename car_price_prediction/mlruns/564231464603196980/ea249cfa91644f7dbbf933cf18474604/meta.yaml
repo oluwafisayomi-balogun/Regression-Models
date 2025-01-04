@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/ea249cfa91644f7dbbf933cf18474604/artifacts
+end_time: 1735670743998
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: ea249cfa91644f7dbbf933cf18474604
+run_name: gifted-shad-105
+run_uuid: ea249cfa91644f7dbbf933cf18474604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735670742095
+status: 3
+tags: []
+user_id: user

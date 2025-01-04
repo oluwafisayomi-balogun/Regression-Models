@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/4619797800a046ef845430cf1fd244fc/artifacts
+end_time: 1735669343664
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 4619797800a046ef845430cf1fd244fc
+run_name: nervous-lamb-988
+run_uuid: 4619797800a046ef845430cf1fd244fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735669341481
+status: 3
+tags: []
+user_id: user

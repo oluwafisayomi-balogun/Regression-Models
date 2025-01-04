@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/4093cd7b3036407f9977479f1e145c52/artifacts
+end_time: 1736003182374
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 4093cd7b3036407f9977479f1e145c52
+run_name: ambitious-ram-934
+run_uuid: 4093cd7b3036407f9977479f1e145c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736003182351
+status: 4
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/558124f8a8434bd996d084074cbb4659/artifacts
+end_time: 1735670198271
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 558124f8a8434bd996d084074cbb4659
+run_name: receptive-crow-370
+run_uuid: 558124f8a8434bd996d084074cbb4659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735670196471
+status: 3
+tags: []
+user_id: user

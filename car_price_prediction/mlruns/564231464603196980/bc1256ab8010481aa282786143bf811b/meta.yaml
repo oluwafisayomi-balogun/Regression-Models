@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/bc1256ab8010481aa282786143bf811b/artifacts
+end_time: 1736004083437
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: bc1256ab8010481aa282786143bf811b
+run_name: resilient-flea-878
+run_uuid: bc1256ab8010481aa282786143bf811b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736004081196
+status: 3
+tags: []
+user_id: user

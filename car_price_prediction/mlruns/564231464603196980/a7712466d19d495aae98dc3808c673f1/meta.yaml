@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/a7712466d19d495aae98dc3808c673f1/artifacts
+end_time: 1736003805048
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: a7712466d19d495aae98dc3808c673f1
+run_name: loud-doe-750
+run_uuid: a7712466d19d495aae98dc3808c673f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736003804972
+status: 3
+tags: []
+user_id: user

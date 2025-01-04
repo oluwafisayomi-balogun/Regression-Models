@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Portfolio/ML/Linear%20Regression/regression-models/car_price_prediction/mlruns/564231464603196980/40ba48f426b94f7dac1ca4116473209d/artifacts
+end_time: 1735671780329
+entry_point_name: ''
+experiment_id: '564231464603196980'
+lifecycle_stage: active
+run_id: 40ba48f426b94f7dac1ca4116473209d
+run_name: caring-sloth-269
+run_uuid: 40ba48f426b94f7dac1ca4116473209d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735671780313
+status: 4
+tags: []
+user_id: user
